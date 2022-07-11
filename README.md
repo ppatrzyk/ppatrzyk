@@ -1,8 +1,8 @@
-### Hello
+### Thanks for your visit!
 
-I enjoy working with data.
+My name is Piotr and I enjoy working with data.
 
-Current tech stack:
+I'm currently programming in:
 
 - <span><img width="16px" heigth="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Python</span>
 - <span><img width="16px" heigth="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /> R</span>
